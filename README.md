@@ -21,7 +21,7 @@ ___
 <!-- title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebSmaIL&layout=compact&hide=qml&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@WebSmaIL&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WebSmaIL&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Streak stats
 
