@@ -8,8 +8,18 @@ ___
 
 # My stats
 
+
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WebSmaIL&show_icons=true&title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebSmaIL&layout=compact&hide=qml&title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@WebSmaIL&title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8)](https://github.com/anuraghazra/github-readme-stats)
+
+# Streak stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WebSmaIL&theme=dracula)](https://git.io/streak-stats)
+
+# My activity
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=WebSmaIL&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
