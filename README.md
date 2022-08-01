@@ -17,11 +17,11 @@ ___
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 # My stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WebSmaIL&show_icons=true&title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WebSmaIL&show_icons=true&theme=dracula)
+<!-- title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebSmaIL&layout=compact&hide=qml&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebSmaIL&layout=compact&hide=qml&title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@WebSmaIL&title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@WebSmaIL&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Streak stats
 
