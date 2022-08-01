@@ -10,7 +10,7 @@
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@WebSmaIL&title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a style="text-align:center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebSmaIL&layout=compact&hide=qml&title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8&card_width=445" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
