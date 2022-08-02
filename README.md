@@ -16,7 +16,7 @@ ___
 ## ***Technologies & frameworks***
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+trophy+:trophy:&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
+# :trophy:[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+trophy&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
