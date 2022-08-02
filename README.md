@@ -5,8 +5,8 @@
 <p>Hi:wave:! My name is Ilya, I am a web developer:computer::globe_with_meridians:. My interest in web development began in 2020. I studied HTML, CSS and JS:mortar_board:, and then I started practicing and building my skill:muscle:. I am now actively learning and practicing web application development in React.js⚛. I never stand still, constantly improving and striving for new heights:chart_with_upwards_trend:. I work with technologies like GULP, SCSS, GIT. I love my job and for the development of each site I give my best:gift_heart:.</p>
 
 ___
-
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+skills&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
+<br></br>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=💪+My+skills&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
 
 ## ***Languages***
 
@@ -16,11 +16,15 @@ ___
 ## ***Technologies & frameworks***
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-# :trophy:[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+trophy&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
+<br></br>
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🏆+My+trophy&font=Montserrat&color=fff&size=32&vCenter=true)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+stats&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
+<br></br>
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=📊+My+stats&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
 
 <!-- title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8 -->
 
@@ -30,7 +34,9 @@ ___
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WebSmaIL&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Streak+stats&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
+<br></br>
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=📈+Streak+stats&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WebSmaIL&theme=dracula)](https://git.io/streak-stats)
 
