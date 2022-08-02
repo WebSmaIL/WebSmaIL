@@ -34,3 +34,8 @@ ___
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WebSmaIL&theme=dracula)](https://git.io/streak-stats)
 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=📈+Coding+stats&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
