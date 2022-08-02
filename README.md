@@ -20,7 +20,7 @@ ___
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🏆+My+trophy&font=Montserrat&color=fff&size=32&vCenter=true)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WebSmaIL&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br></br>
 
