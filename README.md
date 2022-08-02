@@ -31,3 +31,4 @@ ___
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://github.com/WebSmaIL/WebSmaIL/blob/master/codeStats.svg" alt="My Coding Activity/>
