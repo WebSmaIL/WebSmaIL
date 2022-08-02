@@ -17,6 +17,12 @@ ___
 
 <br></br>
 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=💬+Contact+me&font=Montserrat&color=fb6f94&size=32&vCenter=true)](https://git.io/typing-svg)
+
+[![vk](https://img.shields.io/badge/Vkontakte-0078fb?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/websmail)[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/websmail)
+
+<br></br>
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🏆+My+trophy&font=Montserrat&color=fb6f94&size=32&vCenter=true)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WebSmaIL&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
