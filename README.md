@@ -15,6 +15,11 @@ ___
 ___
 ## ***Technologies & frameworks***
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+trophy+:trophy:&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+stats&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
 
 <!-- title_color=FF008A&icon_color=FF008A&text_color=F5F5F5&bg_color=45,4e287a,47439a,345db8 -->
@@ -23,12 +28,9 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebSmaIL&layout=compact&hide=qml&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@WebSmaIL)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WebSmaIL&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Streak+stats&font=Montserrat&color=fff&size=32)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WebSmaIL&theme=dracula)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github.com/WebSmaIL/WebSmaIL/blob/master/codeStats.svg" alt="My Coding Activity/>
