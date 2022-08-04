@@ -52,9 +52,12 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     3 hrs 41 mins   █████████████▒░░░░░░░░░░░   52.72 %
-JavaScript   3 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   47.28 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown     3 hrs 41 mins   ████████▒░░░░░░░░░░░░░░░░   33.93 %
+JavaScript   3 hrs 18 mins   ███████▓░░░░░░░░░░░░░░░░░   30.43 %
+Python       2 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   27.54 %
+Batchfile    20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+CSS          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
