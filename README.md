@@ -52,7 +52,10 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SCSS        38 mins         ██████████████████████▓░░   90.27 %
+SourceMap   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+HTML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+CSS         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
